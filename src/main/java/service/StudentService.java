@@ -36,6 +36,14 @@ public class StudentService {
         student.setStartDate("01/08/2023");
         student.setEndDate("08/01/2026");
         studentList.add(student1);
+        //fourth student
+        student.setStudentId("004");
+        student.setName("Rishi");
+        student.setCourse("MCA");
+        student.setStartDate("01/08/2023");
+        student.setEndDate("08/01/2026");
+        studentList.add(student1);
+
 
 
 
